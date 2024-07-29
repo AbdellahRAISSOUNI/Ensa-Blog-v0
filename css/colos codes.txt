@@ -1,0 +1,5 @@
+White: #ffffff
+Light Blue: #5f8aef
+Medium Blue: #45a6e3
+Teal: #2cc2d7
+Dark Teal: #13decc
